@@ -1,5 +1,4 @@
 # Hi👋! I'm Roman!
-___
 ## 🚹 About me:
 I'm a Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 - 🔥 I'm preparing to work as a Java developer in some company.
@@ -37,7 +36,6 @@ ___
 ___
 ## <img src="https://i.ibb.co/r7DttGF/3.png" width="32px"> My Minecraft Project Development Team:
 ### Ruby Horizon Team
-
 <div id="badges" align="">
   <a href="https://discord.gg/9qSmjx9x">
   <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge" alt="Discord Badge"/>
