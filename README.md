@@ -12,7 +12,7 @@ ___
 ![My Skills](https://skillicons.dev/icons?i=git,maven,gradle,hibernate,spring,mysql,sqlite,mongodb)
 
 ### Programs:
-![My Ides](https://skillicons.dev/icons?i=idea,webstorm,rider,vscode,postman,figma)
+![My Ides](https://skillicons.dev/icons?i=idea,webstorm,rider,vscode,postman,notion)
 ___
 ## 📔 My Git Stats:
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shershnyaga007&theme=dark&background=000000)
