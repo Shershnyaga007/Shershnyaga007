@@ -2,7 +2,6 @@
 ## 🚹 About me:
 I'm a Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 - 🔥 I'm preparing to work as a Java developer in some company.
-- :flag_gb: Learning English.
 - ⚡ In my free time, I develop various Minecraft projects and am engaged in self-development.
 - 😼 Love Cats.
 ___
