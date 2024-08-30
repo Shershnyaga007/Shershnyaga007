@@ -9,7 +9,7 @@ ___
 ### Languages:
 ![My Languages](https://skillicons.dev/icons?i=java,kotlin,cs,html,css,javascript)
 ### Tools:
-![My Skills](https://skillicons.dev/icons?i=git,maven,gradle,hibernate,spring,mysql,sqlite,mongodb)
+![My Skills](https://skillicons.dev/icons?i=nginx,git,maven,gradle,hibernate,spring,mysql,sqlite,mongodb,docker)
 
 ### Programs:
 ![My Ides](https://skillicons.dev/icons?i=idea,webstorm,rider,vscode,postman,notion)
